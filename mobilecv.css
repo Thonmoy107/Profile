@@ -31,8 +31,8 @@ body{
     padding: 10px;  
 }
 .image-div img{
-    width: 80%;
-    height: 500px;
+    width: 50%;
+    height: 300px;
     margin-top: 5px;
     border:2px solid lightgreen;
     border-radius: 35px;
